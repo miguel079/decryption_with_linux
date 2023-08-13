@@ -28,7 +28,7 @@ Use the cat command to list the contents of the README.txt file: <br/>
 <br />
 <br />
 
-Using the cd command to change to the caesar subdirectory of your home directory and lisitng all files (including hidden ones): <br/>
+Using the cd command to change to the caesar subdirectory of your home directory and listing all files (including hidden ones): <br/>
 <img src="https://i.imgur.com/JC2fTTD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
